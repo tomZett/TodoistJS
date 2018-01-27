@@ -1,2 +1,2 @@
 # TodoistJS
-NodeJS module for acessing the Todoist API
+NodeJS module for accessing the Todoist API.
