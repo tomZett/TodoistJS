@@ -1,0 +1,26 @@
+{
+  "name": "todoistjs",
+  "version": "0.1.0",
+  "description": "NodeJS module for accessing the Todoist API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomZett/TodoistJS.git"
+  },
+  "keywords": [
+    "todoist"
+  ],
+  "author": "Tom Zirnsack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomZett/TodoistJS/issues"
+  },
+  "homepage": "https://github.com/tomZett/TodoistJS#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
